@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 public class President {
 	private static President current;
